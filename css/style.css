@@ -1,0 +1,21 @@
+body {
+  background: url(../assets/images/background.jpg) center fixed;
+}
+
+div.buttons {
+  text-align: center;
+  color: white;
+}
+
+div.title {
+  text-align: center;
+  font-size: 80px;
+  color: white;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
