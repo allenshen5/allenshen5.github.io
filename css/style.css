@@ -1,8 +1,4 @@
-body.main {
-  background: url(../assets/images/background.JPG) center fixed;
-}
-
-body.other {
+body {
   background-color: #bcecf0;
 }
 
@@ -18,6 +14,13 @@ div.content {
 }
 
 div.image {
+  text-align:center;
+}
+
+div.info {
+  color: white;
+  font-size: 25px;
+  padding-bottom: 15px;
   text-align:center;
 }
 
