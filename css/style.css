@@ -1,9 +1,9 @@
-body.bio {
-  background-color: #bcecf0;
-}
-
 body.main {
   background: url(../assets/images/background.jpg) center fixed;
+}
+
+body.other {
+  background-color: #bcecf0;
 }
 
 div.buttons {
@@ -25,6 +25,12 @@ div.name {
   color: white;
   font-size: 80px;
   text-align: center;
+}
+
+div.teaching {
+	font-family: sans-serif;
+	width: 600px;
+	margin: auto
 }
 
 div.title {
